@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me is given below:
     1. e23cseu0055@bennett.edu.in
-    2. +919999276127
 
 <!---
 GuptajiRocks/GuptajiRocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
