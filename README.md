@@ -6,6 +6,7 @@
     1. e23cseu0055@bennett.edu.in
 <hr>
 <h1>Tech Stack</h1>
+<div style="align-items: left">
 <table>
     <th>Name</th>
     <th>Level</th>
@@ -22,6 +23,26 @@
         <td>Level 2</td>
     </tr>
 </table>
+</div>
+<div style="align-items: right">
+<table>
+    <th>Name</th>
+    <th>Level</th>
+    <tr>
+        <td>Java</td>
+        <td>Level 3</td>
+    </tr>
+    <tr>
+        <td>Python</td>
+        <td>Level 4</td>
+    </tr>
+    <tr>
+        <td>Spring Boot</td>
+        <td>Level 2</td>
+    </tr>
+</table>
+</div>
+
 
 <!---
 GuptajiRocks/GuptajiRocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
