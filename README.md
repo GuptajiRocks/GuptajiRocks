@@ -6,7 +6,7 @@
     1. e23cseu0055@bennett.edu.in
 <hr>
 <h1>Tech Stack</h1>
-<div style="align-items: left">
+<div style="align-items: left; display: inline-flex">
 <table>
     <th>Name</th>
     <th>Level</th>
@@ -24,7 +24,7 @@
     </tr>
 </table>
 </div>
-<div style="align-items: right">
+<div style="align-items: right; display: inline-flex">
 <table>
     <th>Name</th>
     <th>Level</th>
