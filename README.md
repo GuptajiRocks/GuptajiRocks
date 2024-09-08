@@ -7,11 +7,11 @@
     1. e23cseu0055@bennett.edu.in
  
 # Projects
-	<b>1. Amazon Product Availability Checker - ScraperAPI, Python, Requests, BeautifulSoup, Bs4, Tkinter</b>
- 	<b>2. Stock Market Terminal - Spring Boot, JPA, MySQL, Aiven, Javascript, HTML5, Tailwind CSS</b>
+<b>1. Amazon Product Availability Checker - ScraperAPI, Python, Requests, BeautifulSoup, Bs4, Tkinter</b>
+<b>2. Stock Market Terminal - Spring Boot, JPA, MySQL, Aiven, Javascript, HTML5, Tailwind CSS</b>
 
 # Tech Stack
-<table style = "align-items: center">
+:<table style = "align-items: center">
     <th>Name</th>
     <th>Level</th>
     <tr>
@@ -26,7 +26,7 @@
         <td>Spring Boot</td>
         <td>Level 2</td>
     </tr>
-</table>
+</table>:
 
 
 <!---
