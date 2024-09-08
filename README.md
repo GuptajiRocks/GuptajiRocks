@@ -5,18 +5,14 @@
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me is given below:
     1. e23cseu0055@bennett.edu.in
-<style type="text/css"
-    table {
-        align-items: center;
-    }
-    </style>
+
 # Projects
 <b>1. Amazon Product Availability Checker - ScraperAPI, Python, Requests, BeautifulSoup, Bs4, Tkinter</b>
 <br>
 <b>2. Stock Market Terminal - Spring Boot, JPA, MySQL, Aiven, Javascript, HTML5, Tailwind CSS</b>
 
 # Tech Stack
-<table style = "align-items: center">
+<table>
     <th>Name</th>
     <th>Level</th>
     <tr>
