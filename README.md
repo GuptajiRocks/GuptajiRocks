@@ -10,24 +10,21 @@
 <b>1. Amazon Product Availability Checker - ScraperAPI, Python, Requests, BeautifulSoup, Bs4, Tkinter</b>
 <br>
 <b>2. Stock Market Terminal - Spring Boot, JPA, MySQL, Aiven, Javascript, HTML5, Tailwind CSS</b>
+<br>
+<b>3. RapidAPIHub - Flask, Python, HTML, CSS</b>
 
 # Tech Stack
-<table>
-    <th>Name</th>
-    <th>Level</th>
-    <tr>
-        <td>Java</td>
-        <td>Level 3</td>
-    </tr>
-    <tr>
-        <td>Python</td>
-        <td>Level 4</td>
-    </tr>
-    <tr>
-        <td>Spring Boot</td>
-        <td>Level 2</td>
-    </tr>
-</table>
+<div>
+| Tech Stack | Level |
+|---|---|---|
+| React | Level 1 | 
+| Next.JS | Level 1 
+| Python | Level 4 | 
+| SQL | Level 3 | 
+| Java (Logic) | Level 4 |
+| SpringBoot | Level 1 |
+|Pandas, Numpy, Seaborn | Level 3 |
+</div>
 
 
 <!---
