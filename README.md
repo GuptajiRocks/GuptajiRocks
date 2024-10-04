@@ -14,7 +14,7 @@
 <b>3. RapidAPIHub - Flask, Python, HTML, CSS</b>
 
 # Tech Stack
-<div>
+
 | Tech Stack | Level |
 |---|---|---|
 | React | Level 1 | 
@@ -24,7 +24,7 @@
 | Java (Logic) | Level 4 |
 | SpringBoot | Level 1 |
 |Pandas, Numpy, Seaborn | Level 3 |
-</div>
+
 
 
 <!---
