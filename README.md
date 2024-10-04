@@ -15,15 +15,14 @@
 
 # Tech Stack
 
-| Tech Stack | Level |
-|---|---|---|
-| React | Level 1 | 
-| Next.JS | Level 1 
-| Python | Level 4 | 
-| SQL | Level 3 | 
-| Java (Logic) | Level 4 |
-| SpringBoot | Level 1 |
-|Pandas, Numpy, Seaborn | Level 3 |
+| Skill | Level |
+|---|---|
+|Next.JS| Level 3 |
+|Python| Level 4 |
+|Java (Logic)| Level 4 |
+|C++| Level 2 |
+|React.JS| Level 1 |
+|SpringBoot| Level 1 |
 
 
 
