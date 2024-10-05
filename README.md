@@ -17,7 +17,7 @@
 
 | Skill | Level |
 |---|---|
-|Next.JS| Level 3 |
+|Next.JS| Level 1 |
 |Python| Level 4 |
 |Java (Logic)| Level 4 |
 |C++| Level 2 |
