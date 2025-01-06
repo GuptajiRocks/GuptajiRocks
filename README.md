@@ -20,9 +20,9 @@
 |Next.JS| Level 1 |
 |Python| Level 4 |
 |Java (Logic)| Level 4 |
-|C++| Level 2 |
+|C++| Level 3 |
 |React.JS| Level 1 |
-|SpringBoot| Level 1 |
+|SpringBoot| Level 3 |
 
 
 
